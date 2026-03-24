@@ -863,7 +863,7 @@
             "groups": [
               {
                 "group": "Overview",
-                "pages": ["index", "start/showcase", "concepts/features"]
+                "pages": ["index", "start/showcase", "start/vibe-coding", "concepts/features"]
               },
               {
                 "group": "First steps",
